@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. This is Publowi. I'm currently Learning HTML and CSS.
 
 <!--
 **Publowi/Publowi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
